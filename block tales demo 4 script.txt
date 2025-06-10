@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://rawscripts.net/raw/Block-Tales-DEMO-4-OP-GUI-REVAMP-41506"))()
